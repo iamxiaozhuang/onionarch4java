@@ -1,0 +1,6 @@
+rootProject.name = 'onionarch'
+include 'onionarch-webapi'
+include 'onionarch-application'
+include 'onionarch-domain'
+include 'onionarch-infrastructure'
+
